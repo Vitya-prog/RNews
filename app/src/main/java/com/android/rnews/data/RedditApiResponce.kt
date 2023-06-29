@@ -7,7 +7,8 @@ data class RedditApiResponse(
 )
 
 data class RedditDataResponse(
-    @Json(name = "children") val children: List<RedditChildrenResponse>
+    @Json(name = "children") val children: List<RedditChildrenResponse>,
+    @Json(name = "after") val after: String?
 )
 
 data class RedditChildrenResponse(

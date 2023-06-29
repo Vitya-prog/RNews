@@ -2945,6 +2945,7 @@ drawable ic_call_decline
 drawable ic_call_decline_low
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
+drawable ic_image_e
 drawable ic_keyboard_black_24dp
 drawable ic_launcher
 drawable ic_m3_chip_check
@@ -3113,6 +3114,7 @@ id anticipate
 id arc
 id asConfigured
 id async
+id author
 id auto
 id autoComplete
 id autoCompleteToEnd
@@ -3151,6 +3153,7 @@ id clip_vertical
 id clockwise
 id closest
 id collapseActionView
+id comment_count
 id compress
 id confirm_button
 id constraint
@@ -3163,6 +3166,7 @@ id coordinator
 id cos
 id counterclockwise
 id cradle
+id createdUtc
 id currentState
 id custom
 id customPanel
@@ -3228,6 +3232,7 @@ id forever
 id fragment_container_view_tag
 id frost
 id fullscreen_header
+id fullscreen_image
 id ghost_view
 id ghost_view_holder
 id gone
@@ -3372,14 +3377,17 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerView
 id report_drawn
 id reverseSawtooth
 id right
 id rightToLeft
 id right_icon
 id right_side
+id root
 id rounded
 id row_index_key
+id save_button
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3486,6 +3494,7 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id thumbnail
 id time
 id title
 id titleDividerNoCustom
@@ -3656,6 +3665,8 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout image_dialog
+layout item_post
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
