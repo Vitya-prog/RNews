@@ -21,6 +21,7 @@ import com.squareup.picasso.Picasso
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 import java.io.File
 import java.io.FileOutputStream
 
@@ -85,6 +86,9 @@ class ImageDialogFragment(private val imageUrl:String):DialogFragment() {
             contentValues.clear()
             contentValues.put(MediaStore.Images.Media.IS_PENDING, 0)
             requireContext().contentResolver.update(uri, contentValues, null, null)
+            withContext(Dispatchers.Main){
+                Toast.makeText(context,"Image Saved!",Toast.LENGTH_SHORT).show()
+            }
         }
     }
 }
