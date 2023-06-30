@@ -2929,6 +2929,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_save
 drawable compat_splash_screen
 drawable compat_splash_screen_no_icon_background
 drawable design_fab_background
@@ -3131,6 +3132,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id buttonPanel
+id button_save
 id cache_measures
 id callMeasure
 id cancel_button
@@ -3232,7 +3234,6 @@ id forever
 id fragment_container_view_tag
 id frost
 id fullscreen_header
-id fullscreen_image
 id ghost_view
 id ghost_view_holder
 id gone
@@ -3253,6 +3254,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id indeterminate
@@ -3387,7 +3389,6 @@ id right_side
 id root
 id rounded
 id row_index_key
-id save_button
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3786,6 +3787,7 @@ string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
+string icon
 string icon_content_description
 string item_view_role_description
 string m3_ref_typeface_brand_medium

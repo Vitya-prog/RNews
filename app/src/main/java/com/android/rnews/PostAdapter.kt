@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.fragment.app.FragmentActivity
 import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
@@ -29,8 +30,12 @@ class PostAdapter : PagingDataAdapter<RedditPost,PostAdapter.PostViewHolder>(POS
         if(post!=null){
             holder.author.text = post.author
             holder.createdUtc.text = time(post.createdUtc)
-            holder.commetns.text = post.num_comments + " " + "comments"
+            holder.comments.text = post.num_comments + " " + "comments"
             Picasso.get().load(post.thumbnail).error(R.drawable.ic_image_e).into(holder.thumbnail)
+            holder.thumbnail.setOnClickListener {
+             val dialogFragment = ImageDialogFragment(post.thumbnail)
+            dialogFragment.show((holder.itemView.context as FragmentActivity).supportFragmentManager, "ImageDialogFragment")
+            }
         }
 
     }
@@ -47,7 +52,7 @@ class PostAdapter : PagingDataAdapter<RedditPost,PostAdapter.PostViewHolder>(POS
         val author: TextView = view.findViewById(R.id.author)
         val createdUtc: TextView = view.findViewById(R.id.createdUtc)
         val thumbnail: ImageView = view.findViewById(R.id.thumbnail)
-        val commetns:TextView = view.findViewById(R.id.comment_count)
+        val comments:TextView = view.findViewById(R.id.comment_count)
     }
 
     companion object {

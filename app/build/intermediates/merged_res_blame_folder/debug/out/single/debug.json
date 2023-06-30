@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\drawable_ic_launcher.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\drawable\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-xxhdpi\\ic_launcher.png"
     },
@@ -14,6 +10,42 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\layout_item_post.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\layout\\item_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\drawable_ic_image_e.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\drawable\\ic_image_e.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.android.rnews.app-merged_res-4:/layout_image_dialog.xml.flat",
+        "source": "com.android.rnews.app-main-6:/layout/image_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\layout_image_dialog.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\layout\\image_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\drawable\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
@@ -28,32 +60,16 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\drawable_button_save.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\drawable\\button_save.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\drawable_ic_image_e.jpg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\drawable\\ic_image_e.jpg"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
@@ -68,24 +84,12 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.android.rnews.app-merged_res-4:/layout_activity_main.xml.flat",
-        "source": "com.android.rnews.app-main-6:/layout/activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\layout_image_dialog.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\layout\\image_dialog.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-main-6:\\xml\\data_extraction_rules.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.android.rnews.app-merged_res-4:\\layout_activity_main.xml.flat",
